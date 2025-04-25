@@ -1,23 +1,25 @@
 ## Hello, world! ***SqrtOne*** from China!
 
-[Personal Website on GitHub](sqrtone.github.io)
+>  [GitHub](https://www.github.com/SqrtOne) // [BiliBili](https://space.bilibili.com/1537856589) // [Personal Website on GitHub](http://sqrtone.github.io)
 
-1. **C**
-```c
-#include <stdio.h>
+```learning C++ (OIer)```
 
-int main() {
-    printf("Hello, World!\n");
-    return 0;
-}
-```
-
-2. **C++**
+1. **C++**
 ```cpp
 #include <iostream>
 
 int main() {
     std::cout << "Hello, World!" << std::endl;
+    return 0;
+}
+```
+
+2. **C**
+```c
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!\n");
     return 0;
 }
 ```
