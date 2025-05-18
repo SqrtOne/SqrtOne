@@ -7,6 +7,7 @@ cout << "Hello world" << endl;
 <div id="title" align=center>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SqrtOne&show_icons=true&theme=tokyonight)
+![Lauguage](https://github-readme-stats.vercel.app/api/top-langs/?username=SqrtOne&theme=tokyonight&layout=compact)
 
 [![](https://img.shields.io/badge/bilibili-SqrtOne-blue)](https://space.bilibili.com/1537856589)
 [![](https://img.shields.io/badge/%E5%BE%AE%E5%8D%9A-SqrtOne-red)](https://weibo.com/u/7935417618)
