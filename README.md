@@ -9,4 +9,3 @@ cout << "Hello world" << endl;
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SqrtOne&show_icons=true&theme=tokyonight)
 ![Lauguage](https://github-readme-stats.vercel.app/api/top-langs/?username=SqrtOne&theme=tokyonight&layout=compact)
 
-![Visitor Count](https://profile-counter.glitch.me/SqrtOne/count.svg)
