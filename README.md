@@ -1,4 +1,4 @@
-# QL SqrtOne 
+# Hello here, this is *QL SqrtOne*.
 
 ```cpp
 cout << "hello, world!" << endl;
@@ -6,4 +6,4 @@ cout << "hello, world!" << endl;
 
 ### 以爱之名 你还愿意吗
 
-[#OIer](#) | [#infp](#) | [#周深](#) | [#半二次元](#) | ~~[#发现更多](#)~~
+[#OIer](#) | [#infp](#) | [#周深](#) | [#半二次元](#)
