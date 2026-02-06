@@ -8,4 +8,6 @@ cout << "hello, world!" << endl;
 
 ### 以爱之名 你还愿意吗
 
-[#OIer](#) | [#infp](#) | [#周深](#) | [#半二次元](#)
+[#OIer](#) | [#infp](#) | [#周深](#) | [#半二次元](#) | [#Minecraft](#)
+
+### [晴の日记本](https://qli.qzz.io) 个站来玩awa
