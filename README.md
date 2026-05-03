@@ -1,9 +1,13 @@
-## Hi there, this is ***SqrtOne***.
+## 你好！我是晴晞awa！~~才不是“清晰”呢（~~
 
-```cpp
-cout << "Hello Luogu" << endl;
-```
+ID 是 **SqrtOne**，也算是历史遗留产物了（对手指）
 
-**OIer** | **INFP** | **周深** | **Minecraft**
+一只为i做e（？）的 **INFP** 小蝴蝶，混迹 **MBTI** 圈子喵，怎么测试几乎都是INFP，纯血这一块ww
 
-[晴晞の破站](https://qxawa.pages.dev) 个站来玩awa
+同时也是一个 **OIer** 啦！但是是个大蒟蒻orz
+
+我担 **周深**！但是又听 **ボカロ**（俗称术曲），但是这似乎一点也不冲突喵！~~所以有没有谁能给我张演唱会门票啊qwq~~
+
+最后！[**晴晞の破站**](https://qxawa.pages.dev) 这是我的个站，记得来玩喵awa
+
+~~看到这里你就知道什么是为i做e了吧（目移）（逃）~~
