@@ -1,11 +1,9 @@
-# Hello here, this is *QL SqrtOne*.
+## Hi there, this is ***SqrtOne***.
 
 ```cpp
-cout << "hello, world!" << endl;
+cout << "Hello Luogu" << endl;
 ```
 
-### 以爱之名 你还愿意吗
+**OIer** | **INFP** | **周深** | **Minecraft**
 
-OIer | INFP | 周深 | Minecraft
-
-### [晴の日记本](https://qli.qzz.io) 个站来玩awa
+[https://qli.qzz.io](https://qli.qzz.io) 个站来玩awa
